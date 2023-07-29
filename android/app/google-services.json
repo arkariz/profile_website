@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427020291928",
+    "project_id": "mapala-unjani",
+    "storage_bucket": "mapala-unjani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427020291928:android:dbe112324040f5ed60df2d",
+        "android_client_info": {
+          "package_name": "com.example.mapala_unjani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427020291928-br4l79t3jpmn8n5pt6norbai7n5lhqrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsJYXpNxz86k4OIWtBHRz7tucjxVfAbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427020291928-br4l79t3jpmn8n5pt6norbai7n5lhqrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
